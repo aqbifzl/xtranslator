@@ -10,7 +10,7 @@ void showHelp() {
           "(like PRIMARY or CLIPBOARD)\n"
        << "  source       - The source language code\n"
        << "  target       - The target language code\n";
-  exit(1); x
+  exit(1);
 }
 
 int main(int argc, char **argv) {
