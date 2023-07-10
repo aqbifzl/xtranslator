@@ -8,11 +8,11 @@ A simple c++ program that takes a value from an X selection like PRIMARY, SECOND
 ### Install dependencies
 #### Arch-based distro
 ```
-sudo pacman -S core/curl
+sudo pacman -S curl nlohmann-json
 ```
 #### Debian-based distro
 ```
-sudo apt install libcurl-dev
+sudo apt install libcurl-dev nlohmann-json-dev
 ```
 
 ### Clone with submodules
