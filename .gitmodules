@@ -1,0 +1,3 @@
+[submodule "lingva"]
+	path = lingva-api
+	url = https://github.com/aqbifzl/lingva-api.git
